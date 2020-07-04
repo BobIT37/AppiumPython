@@ -1,0 +1,5 @@
+04/07/20 00:17:08 AM Saturday: CRITICAL: This is critical msg
+04/07/20 00:17:08 AM Saturday: ERROR: This is a error msg
+04/07/20 00:17:08 AM Saturday: WARNING: this is warning msg
+04/07/20 00:17:08 AM Saturday: INFO: This is a Info msg
+04/07/20 00:17:08 AM Saturday: DEBUG: This is a Debug msg
